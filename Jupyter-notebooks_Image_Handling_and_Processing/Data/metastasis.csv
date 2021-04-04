@@ -1,0 +1,12 @@
+ID;Sphericity;Homogeneity;Age;HER2_expression;Metastasis
+0;0.88;140;60;0.9452;positive
+1;0.84;111;65;0.8234;negative
+2;0.72;199;55;1.1231;positive
+3;0.92;150;55;1.2021;negative
+4;0.55;175;78;1.1111;positive
+5;0.91;120;80;0.8321;negative
+6;0.90;177;82;0.7998;positive
+7;0.83;189;85;1.1023;positive
+8;0.76;100;76;0.9982;negative
+9;0.7;111;81;1.013;negative
+
